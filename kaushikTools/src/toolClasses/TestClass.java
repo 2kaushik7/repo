@@ -11,6 +11,7 @@ public class TestClass {
 		
 		System.out.println("tool tested");
 		System.out.println("tool tested twice");
+		System.out.println("tool tested trice");
 		
 	}
 
