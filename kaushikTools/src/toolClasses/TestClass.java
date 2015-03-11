@@ -10,6 +10,7 @@ public class TestClass {
 		tc.test();
 		
 		System.out.println("tool tested");
+		System.out.println("tool tested twice");
 		
 	}
 
